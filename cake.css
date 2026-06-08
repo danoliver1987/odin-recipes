@@ -1,0 +1,25 @@
+.triple-chocolate-cake {
+    color: red;
+    text-align: left;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.image-and-description {
+    display: flex;
+    align-items: flex-start;
+    width: 60%;
+}
+
+.cake-photo {
+    padding: 10px;
+    width: 40%;
+    margin-left: 30px;
+}
+
+.cake-description {
+    font-size: 30px;
+    width: 100%;
+    padding: 50px;
+    margin: 0 auto;
+}   
